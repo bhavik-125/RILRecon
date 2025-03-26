@@ -22,7 +22,7 @@ python src/rilrecon.py samples/example_ril_binary.so --ghidra "C:/ghidra" --java
 ```
 
 ## System Requirements
-- Python 3.x
+- Python 3.8+
 - Ghidra 9.2.2 or later
 - Java 11 (OpenJDK recommended)
 - A rooted Android device (for testing extracted commands)
